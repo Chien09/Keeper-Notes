@@ -6,7 +6,7 @@ This project uses React UI package "Material UI" for basic icons.
 
 ![Display](ReadMeImages/Display.png)
 
-# Getting Started with Create React App
+# Getting Started with Create React App (References from Dr. Angela Yu)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
